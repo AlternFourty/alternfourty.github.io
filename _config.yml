@@ -7,7 +7,7 @@ title: AlternBoard
 description: Blog personal - Opinion - Escritura - Tecnologia
 
 # Your name to show in the footer
-author: Fourty
+author: Ivan Morales - AKA Fourty
 
 # --- List of links in the navigation bar --- #
 
@@ -48,13 +48,13 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+#  youtube: user/AlternFourty
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: AlternFourty
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
@@ -66,7 +66,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
